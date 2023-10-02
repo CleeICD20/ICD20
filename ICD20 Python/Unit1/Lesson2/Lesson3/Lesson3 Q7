@@ -1,0 +1,4 @@
+name = "cameron"
+age = 14 
+hometown = "Toronto"
+print("my name is " + name + ", I am " + str(age) + " years old, and I am from " + hometown)

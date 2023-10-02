@@ -1,0 +1,6 @@
+ship = "the negotiator"
+character = "bob the astronaut"
+alien = "joe the alien"
+print("Hello and welcome aboard " + ship + " I am " + character)
+print(ship + " and" + " I are going to meet " + alien + " on a far away planet")
+print(ship + " is leaving soon")

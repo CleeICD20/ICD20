@@ -1,0 +1,8 @@
+tiger = "🐯"
+kid = "🧒"
+monkey = "🐵"
+print("there once was a " + kid + " who lived in a jungle with a " + tiger + " and a " + monkey + ".")
+print("the " + kid + " had once come from a manmade civilisation but learned to live with the wildlife and the jungle")
+print("the " + monkey + " taught him all about the jungle and what he needed to do to surivive and thrive in it.")
+print("the " + tiger + " taught him how to do everything in the jungle.  How to hunt, where to live and how to connect with the wildlife")
+print("the " + kid + ", " + monkey + " and the " + tiger + " lived and prospered in the jungle happily ever after")

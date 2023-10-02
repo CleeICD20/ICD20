@@ -1,0 +1,11 @@
+input_drink = (float(input("Enter the cost of your drink: ")))
+input_appetizer = (float(input("Enter the cost of your appetizer: ")))
+input_entree = (float(input("Enter the cost of your entree: ")))
+input_dessert = (float(input("Enter the cost of your dessert: ")))
+input_tip = (int(input("Enter the tip rate as a percentage: ")))
+subtotal = input_drink + input_appetizer + input_entree + input_dessert
+tip = (input_tip/100 * subtotal)
+print("Bill summary:")
+print(f"Subtotal: ${subtotal}")
+print(f"Tip ({input_tip}): ${input_tip/100 * subtotal}")
+print(f"Total cost: {subtotal + tip}")

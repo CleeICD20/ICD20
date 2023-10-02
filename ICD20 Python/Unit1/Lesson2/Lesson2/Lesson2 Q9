@@ -1,0 +1,5 @@
+team_1 = "Toronto Maple Leafs"
+team_2 = "Boston Bruins"
+score = "2-1 led by the Leafs who scored two goals within the first two minutes of the game"
+print("this exciting playoff game between the " + team_1 + " and the " + team_2 + " is getting intense already")
+print("the score is " + score)

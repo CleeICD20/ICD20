@@ -1,0 +1,12 @@
+topic_1 = "- Traditional Practices"
+topic_2 = "- Art and Craftsmanship"
+topic_3 = "- Language and Storytelling"
+topic_4 = "- Community Traditions"
+print("Presentation: Exploring Huron-Wendat Heritage")
+print("Aspects of Huron-Wendat Culture:")
+print(topic_1)
+print(topic_2)
+print(topic_3)
+print(topic_4)
+print("Date: Wednesday, November 15, 2023")
+print("Duration: 60 Minutes")

@@ -1,0 +1,6 @@
+hero_name = "superyoda"
+superpower = "the ability to move things with his mind and can read peoples' minds"
+archenemy = "darth dook"
+print(hero_name + " is a force wielding being with many capabilities such as " + superpower)
+print("his archenemy is " + archenemy + " who wields the force as well.  However, his abilities from the force stem from anger and grief.")
+print(hero_name + " must fight his fears and battle the dark")

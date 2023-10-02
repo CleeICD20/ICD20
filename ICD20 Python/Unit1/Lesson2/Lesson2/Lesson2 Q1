@@ -1,0 +1,6 @@
+print("Question: what is the largest planet in our solar system?")
+print("A) Earth")
+print("B) Mars")
+print("C) Jupiter")
+print("D) Saturn")
+print("Correct answer: C) Jupiter")

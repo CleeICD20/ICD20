@@ -1,0 +1,8 @@
+f1 = "🌷"
+tree = "🌲"
+f2 = "🌹"
+f3 = "🌼"
+plant = "🌱"
+print(f1 + f2 + f3 + plant + tree + tree + tree + tree + tree + plant + f2 + f3 + f1)
+print(tree + tree + tree + tree + "          " + tree + tree + tree + tree )
+print(f1 + f2 + f3 + plant + tree + tree + tree + tree + tree + plant + f2 + f3 + f1)

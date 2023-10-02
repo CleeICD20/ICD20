@@ -1,0 +1,6 @@
+spell_name = "pyro"
+incantation = "pyro then say avadakedavra while activating your magical wand"
+effect = "a magical fire with the ability to burn through most materials"
+print("you will be learning the spell " + spell_name + " which is a very easy and powerfu spell")
+print("you must say the incantation: " + incantation + " to activate the spell")
+print(" the effects are " + effect)

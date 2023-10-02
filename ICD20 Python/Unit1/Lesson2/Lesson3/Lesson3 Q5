@@ -1,0 +1,3 @@
+quote = "'I have no speical talent.  I am only passionately curious.'"
+author = " - Albert Einstein"
+print(quote + author)
